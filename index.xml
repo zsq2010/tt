@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>乐惠苑新闻</title>
-    <link>http://example.org/</link>
+    <link>zsq2010.github.io/</link>
     <description>Recent content on 乐惠苑新闻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jul 2020 20:50:53 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="zsq2010.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Post</title>
-      <link>http://example.org/posts/new-post/</link>
+      <link>zsq2010.github.io/posts/new-post/</link>
       <pubDate>Fri, 24 Jul 2020 20:50:53 +0800</pubDate>
       
-      <guid>http://example.org/posts/new-post/</guid>
+      <guid>zsq2010.github.io/posts/new-post/</guid>
       <description>来呗</description>
     </item>
     
     <item>
       <title>第一篇帖子啊</title>
-      <link>http://example.org/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%B8%96%E5%AD%90/</link>
+      <link>zsq2010.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%B8%96%E5%AD%90/</link>
       <pubDate>Fri, 24 Jul 2020 20:32:44 +0800</pubDate>
       
-      <guid>http://example.org/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%B8%96%E5%AD%90/</guid>
+      <guid>zsq2010.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%B8%96%E5%AD%90/</guid>
       <description>一.git安装(windows为例) 参考配置:https://gitee.com/help/articles/4106#article-header0 //gitee官方介绍https://www.jianshu.com/p/68578d52470c //配置同时使用 Gitlab、Github、Gitee(码云) 共存的开发环境&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-参考git权威文档:git pro英文版:https://git-scm.com/book/en/v2github官方中文版(英文版信息最新):https://docs.github.com/cn**[推荐]github官方英文版**https://docs.github.com/en一.下载软件https://npm.taobao.org/mirrors/git-for-windows/ //国内,版本紧跟! 谨慎的朋友可以对照下面的版本(以下由于速度太慢,不推荐.但是版本号权威.)https://git-scm.com/download/win //git官方主页下载https://github.com/git-for-windows/git/releases/ //git的github下载****推荐portable版****注:绿色版-需手动添加,路径**PortableGit\bin到系统path变量,具体如下,**例如,C:\g**PortableGit\bin,**到系统环境变量点编辑,在path开头添加并保存验证是否配置成功win+r,输入cmd,按enter-&amp;gt;打开cmd窗口&amp;ndash;&amp;gt;输入,git &amp;ndash;version类似图片则ok了如果,用git安装包(不是绿色版git),会自动帮你添加变量. 建议,portable版二.配置&amp;quot;全局&amp;quot;用户名打开bash.exe:方式很多.原理就是C:\g**PortableGit\bin 下有个bash.exe********tips:使得bash支持右键粘贴打开bash窗口,右上角,如图点击**选择,快捷编辑模式,这样**右键**可以粘贴剪贴板内容(一般是你要输入的命令)**a.查看旧的设置(对于已安准过git的来说)(可选步骤,新装忽略)**查看是否已经有记录bash.exe的窗口mingw64:/bin,右键,就可以粘贴了**git config &amp;ndash;list******本人设备上最后林航有 user.name和user.email,表示已经安装过了
 删除该设置git config &amp;ndash;global &amp;ndash;unset user.name &amp;ldquo;你的名字&amp;rdquo;git config &amp;ndash;global &amp;ndash;unset user.email &amp;ldquo;你的邮箱&amp;rdquo;b.设定名字和邮箱git config &amp;ndash;global user.name **&amp;ldquo;John Doe&amp;rdquo; **git config &amp;ndash;global user.email johndoe@example.com
 三.添加秘钥(不是什么难事,一步步来吧)bash.exe窗口中,输入ssh-keygen -t rsa -C &amp;ldquo;306582825@qq.com&amp;rdquo; //这个邮箱gitee可以随便填写,github其他平台?未测一对秘钥就生成了,内容会生成在~/.ssh/id_rsa.pub也就是C:\Users\username.ssh usernameusername,是你windows用户名在gitee上添加公钥(不要慌,很简单的)https://gitee.com/help/articles/4191密码为gitee网站的登录密码验证链接成功(gitee为例)ssh -T git@gitee.com第一次连接,看到&amp;quot;cant be established不要慌&amp;rdquo;,正常问yes/no, 输入yes(如果不输入yes,而直接enter,默认不是yes.所以,老实输入yes吧)上面乱码是gitee你注册视乎的中文昵称,偶尔会乱码.我第二次运行就不乱了&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; 创建配置解决ssh冲突 在.ssh文件夹中创建config文件，添加以下内容以区分两个ssh key
@@ -34,10 +34,10 @@ giteeHost gitee.comHostName gitee.comPreferredAuthentications publickeyIdentityF
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/post/my-first-post/</link>
+      <link>zsq2010.github.io/post/my-first-post/</link>
       <pubDate>Fri, 24 Jul 2020 20:18:17 +0800</pubDate>
       
-      <guid>http://example.org/post/my-first-post/</guid>
+      <guid>zsq2010.github.io/post/my-first-post/</guid>
       <description>我的第一个问斩</description>
     </item>
     

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MARVEL.CENTER</title>
+        <link>https://softwarebuy.github.io/</link>
+        <description>Live for Being Legand 成为创奇</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 19 Sep 2020 01:24:14 &#43;0800</lastBuildDate>
+            <atom:link href="https://softwarebuy.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>第一篇:起源..</title>
+    <link>https://softwarebuy.github.io/posts/first_post/</link>
+    <pubDate>Sat, 19 Sep 2020 01:24:14 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://softwarebuy.github.io/posts/first_post/</guid>
+    <description><![CDATA[本博客作为个人官方博客,发布信息和动态. 功能说明:中间的logo,点击显示阅读列表.]]></description>
+</item></channel>
+</rss>

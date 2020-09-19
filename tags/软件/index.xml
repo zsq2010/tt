@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>软件 - 标签 - MARVEL.CENTER</title>
+        <link>https://softwarebuy.github.io/tags/%E8%BD%AF%E4%BB%B6/</link>
+        <description>软件 - 标签 - MARVEL.CENTER</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 26 Jul 2020 01:56:46 &#43;0800</lastBuildDate><atom:link href="https://softwarebuy.github.io/tags/%E8%BD%AF%E4%BB%B6/" rel="self" type="application/rss+xml" /><item>
+    <title>第一篇:起源..</title>
+    <link>https://softwarebuy.github.io/posts/second/</link>
+    <pubDate>Sun, 26 Jul 2020 01:56:46 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://softwarebuy.github.io/posts/second/</guid>
+    <description><![CDATA[本博客作为个人官方博客发布信息和动态.]]></description>
+</item></channel>
+</rss>

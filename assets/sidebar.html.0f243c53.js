@@ -1,0 +1,1 @@
+const e={key:"v-37c05160",path:"/sidebar/ambient/sidebar.html",title:"",lang:"en-US",frontmatter:{"0":"a","1":"b","2":"i","3":"e","4":"n","5":"t"},excerpt:"",headers:[],git:{},filePathRelative:"sidebar/ambient/sidebar.md"};export{e as data};

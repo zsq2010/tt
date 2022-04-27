@@ -1,1 +1,0 @@
-const e={key:"v-2abd3476",path:"/sidebar.html",title:"",lang:"en-US",frontmatter:{"0":"a","1":"b","2":"i","3":"e","4":"n","5":"t"},excerpt:"",headers:[],git:{},filePathRelative:"sidebar.md"};export{e as data};

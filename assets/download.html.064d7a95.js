@@ -1,1 +1,0 @@
-const e={key:"v-728bd554",path:"/sidebar/download/download.html",title:"",lang:"en-US",frontmatter:{"0":"\u6D4B","1":"\u8BD5","2":"p","3":"r","4":"o","5":"b","6":"l","7":"e","8":"s","9":"\u6253","10":"\u7684"},excerpt:"",headers:[],git:{},filePathRelative:"sidebar/download/download.md"};export{e as data};

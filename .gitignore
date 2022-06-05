@@ -1,5 +1,13 @@
 node_modules
 .temp
 .cache
-.DS_Store 
-*/.DS_Store 
+     
+#Ignore folder mac
+.DS_Store
+
+
+# OR
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store

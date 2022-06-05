@@ -3,7 +3,7 @@
   
   module.exports = {
     lang: 'zh-CN',
-    base: '/blog/',
+    // base: '/blog/',
     // port:'8080',  未测试
     title: 'NFT星联团购',
     description: '发布有关我们的动态.欢迎合作!',
